@@ -1,3 +1,7 @@
+// 1. Run `npm run complexity-report`
+// 2. Open report.txt
+// 3. Refactor to reduce complexity
+
 class Philosopher {
   constructor(public readonly name: string) {
     if (
